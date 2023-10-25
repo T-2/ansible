@@ -1,6 +1,6 @@
 - name: Install packages
   apt:
     name:
-    - htop
-    - vim
+      - htop
+      - vim
 
